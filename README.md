@@ -1,4 +1,4 @@
-# govtinternshipfinder
+# Government Internship Finder
 
 ### Team Members :- Priyansh Arora, Kartik Mehta, Abhinav Sharma, Mridul Singh, Poorvi Mishra, Kavyanshi
 
